@@ -1,0 +1,21 @@
+step 1:
+Go to https://github.com/opencv/opencv and download the Lastest Release
+click release in version on right side of page
+search extension file. and download it
+
+step 2:
+Add bin folder to the Environment Variables path
+D:\PEMROGRAMAN\opencv\build\x64\vc15\bin
+
+step 3 :
+Create a New Visual Studio project C++ console.
+
+Set the platform target to x64
+
+step 4 :
+VC++ Directories
+    1. Add Build Directories: D:\PEMROGRAMAN\opencv\build\include
+    2. Add Library Directories: D:\PEMROGRAMAN\opencv\build\x64\vc15\lib
+Linker Input 
+    3. Add Linker input: opencv_world451d.lib
+       d for debug without d for release 

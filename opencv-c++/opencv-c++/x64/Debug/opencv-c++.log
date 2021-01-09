@@ -1,0 +1,5 @@
+﻿  object-detetction-deteksi-tepi.cpp
+E:\opencv-c++\opencv-c++\opencv-c++\object-detetction-deteksi-tepi.cpp(30,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\opencv-c++\opencv-c++\opencv-c++\object-detetction-deteksi-tepi.cpp(36,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\opencv-c++\opencv-c++\opencv-c++\object-detetction-deteksi-tepi.cpp(68,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  opencv-c++.vcxproj -> E:\opencv-c++\opencv-c++\x64\Debug\opencv-c++.exe
